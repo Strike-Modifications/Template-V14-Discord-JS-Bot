@@ -1,0 +1,13 @@
+{
+    "ClientID": "YOUR_BOT_CLIENT_ID",
+    "GuildID": "YOUR_SERVER_ID",
+    "Token": "YOUR_BOT_TOKEN",
+    "ReadyMessage": "Online",
+    "StartupMessageChannel": "CHANNEL_ID_FOR_STARTUP_MESSAGE",
+    "presence": 0,
+    "Status": {
+      "text": "Your Custom Status",
+      "type": 2
+    }
+  }
+  

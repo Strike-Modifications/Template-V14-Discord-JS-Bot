@@ -1,0 +1,10 @@
+{
+    "AuthorName": "Your Bot Name",
+    "AuthorIcon": "https://url-to-your-icon.png",
+    "Color": "Green",
+    "FooterIcon": "https://url-to-your-footer-icon.png",
+    "FooterText": "Your Footer Text",
+    "ServerIcon": "https://url-to-your-server-icon.png",
+    "Timestamp": true
+  }
+  
